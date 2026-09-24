@@ -1,4 +1,5 @@
 Comprate GitKraken.
+<<<<<<< HEAD
 
  
 
@@ -11,3 +12,6 @@ Comprate GitKraken.
 
 
 andate a fare in culo
+=======
+- NO - non metto il io nome
+>>>>>>> 5a3adef1e1fb2de678d316a94251d4b3ef6bb448
