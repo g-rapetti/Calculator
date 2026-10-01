@@ -16,5 +16,9 @@ public String per(int a, int b){
 return "Kraken's Tuchus";
 }
 
+public String allah(int l, int j) {
+	return "ALLAHHH";
+}
+
 
 }
